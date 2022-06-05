@@ -38,7 +38,7 @@ while(1) {
 	   ostrm << "Full file path : " << p.path;
 	   ostrm.close();
 	 }
-	}
+	if !found hrow std::overflow_error("Not found file"+filename);	
 	}
 }
 }
